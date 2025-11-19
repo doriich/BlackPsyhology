@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 #токен укажи прямо здесь
-TOKEN = "ТУТ"
+TOKEN = "8429262459:AAEYBZKC8a-sonFPkGxO_cmaSf41eNP9au4"
 
 
 TRIAL_DAYS = 3
