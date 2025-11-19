@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 db = Database()
 
 # Bot token (you need to set this as an environment variable)
-TOKEN = os.environ.get('8429262459:AAEYBZKC8a-sonFPkGxO_cmaSf41eNP9au4')
+BOT_TOKEN = os.environ.get('8429262459:AAEYBZKC8a-sonFPkGxO_cmaSf41eNP9au4')
 
 def start(update: Update, context: CallbackContext) -> None:
     """Send a message when the command /start is issued."""
